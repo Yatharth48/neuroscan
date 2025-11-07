@@ -1,0 +1,1 @@
+# NeuroScan\n\nProduction-grade medical image analysis (ResNet50) with FastAPI + Next.js.
